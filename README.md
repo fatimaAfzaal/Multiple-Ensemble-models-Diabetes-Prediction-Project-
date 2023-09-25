@@ -1,6 +1,5 @@
 
 # Diabetes Prediction Project Using Ensemble Models
-
 This project is aimed at building a diabetes prediction model using ensemble machine learning techniques. It involves the following steps:
 
 ## Problem Definition
